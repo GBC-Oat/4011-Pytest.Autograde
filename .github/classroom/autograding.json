@@ -1,0 +1,13 @@
+{
+  "tests": [
+    {
+      "name": "regression_test.py",
+      "run": "pytest regression_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 5
+    }
+  ]
+}
